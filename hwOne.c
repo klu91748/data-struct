@@ -1,4 +1,4 @@
 void main()
 {
-	printf("Hello, my name is Kevin Lu\n");
+	printf("Goodbye, I finished my CS256 HW1\n");
 }
